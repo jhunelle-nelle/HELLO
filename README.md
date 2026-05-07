@@ -12,13 +12,14 @@ I am a passionate **Information Technology** student with a flair for coding and
 ### 📜 Certifications
 <certifications>
   <cert>
-    <name>Oracle Cloud Infrastructure 2023 Certified Foundations Associate</name>
+    <name>NoSQL and DBaaS 101</name>
+    <link>[View Certificate](https://courses.cognitiveclass.ai/certificates/c31ce8d4b1dc48c9b5e1f194eabf9ea0#)</link>
   </cert>
   <cert>
     <name>Oracle Cloud Data Management 2023 Certified Foundations Associate</name>
   </cert>
   <cert>
-    <name>NoSQL and DBaaS 101</name>
+    <name>Oracle Cloud Infrastructure 2023 Certified Foundations Associate</name>
   </cert>
 </certifications>
 
@@ -43,11 +44,12 @@ I am a passionate **Information Technology** student with a flair for coding and
 
 ### 📬 Let's Connect
 <contact>
-  <email>jhunelleremo71@gmail.com</email>
-  <linkedin>https://www.linkedin.com/in/yourprofile</linkedin>
+  <email>[jhunelleremo71@gmail.com](mailto:jhunelleremo71@gmail.com)</email>
+  <linkedin>[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)</linkedin>
 </contact>
 
 ---
 
-### 🚀 Projects & Stats
-<!-- You can add your GitHub stats or specific project links here -->
+### 📈 GitHub Stats
+<!-- Optional: Common GitHub Readme Stat Card -->
+![Jhunelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
