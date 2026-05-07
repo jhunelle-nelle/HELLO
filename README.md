@@ -1,4 +1,4 @@
-# 👨‍💻 Jhunelle Remo
+# Hai i am Jhunelle Remo
 **Aspiring Full-Stack Developer | Database Management Enthusiast**
 
 I am a dedicated **Information Technology** student with a core focus on architecting efficient database systems and writing clean, scalable code. I specialize in bridging the gap between complex data structures and user-centric applications. Currently honing my skills at **New Era University**, I am driven by the challenge of solving real-world problems through elegant technical solutions.
